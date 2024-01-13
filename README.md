@@ -6,3 +6,5 @@ Note: A detailed write up about this experiment can be found in physics.pdf atta
 ## Set-up Explanation 
 
 The ultrasonic sensor emits a high frequency sound and it records the time taken to receive the reflected sound wave when an object or surface is detected.
+
+![arduino!](images/arduino.png)
