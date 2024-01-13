@@ -17,8 +17,10 @@ The device utilises the equation, distance = speed x time to determine the dista
 
 ### Arduino and wiring 
 The breadboard includes 10 LED lights which are programmed to light up whenever the water level reaches the respective level.
+
 ![arduino!](images/arduino.png)
 ![setup!](images/setup.png)
+
 In order to minimize the interference of anomalies to the validity of the data, the reading is outputted in the form of the average of the last 10 readings. The distance between the sensor and the top of the bottle surface was also considered by subtracting 8.8 cm <![if !msEquation]>  <![endif]> from the calculated distance value.
 
 
