@@ -21,6 +21,17 @@ The breadboard includes 10 LED lights which are programmed to light up whenever 
 ![arduino!](images/arduino.png)
 ![setup!](images/setup.png)
 
-In order to minimize the interference of anomalies to the validity of the data, the reading is outputted in the form of the average of the last 10 readings. The distance between the sensor and the top of the bottle surface was also considered by subtracting 8.8 cm <![if !msEquation]>  <![endif]> from the calculated distance value.
+In order to minimize the interference of anomalies to the validity of the data, the reading is outputted in the form of the average of the last 10 readings. The distance between the sensor and the top of the bottle surface was also considered by subtracting 8.8 cm from the calculated distance value.
+
+## Results
+![graph1!](images/graph1.png)
+
+![graph2!](images/graph2.png)
+
+![graph3!](images/graph3.png)
+
+![graph4!](images/graph4.png)
+
+
 
 
